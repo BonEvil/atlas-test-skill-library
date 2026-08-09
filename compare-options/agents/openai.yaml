@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compare Options"
+  short_description: "Compare choices with explicit tradeoffs"
+  default_prompt: "Use $compare-options to compare these choices and recommend a practical next step."

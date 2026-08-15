@@ -16,6 +16,11 @@ criteria-based choice between options.
         └── openai.yaml
 ```
 
+## Guides
+
+- [Installation and synchronization](docs/installation-and-sync.md)
+- [Skill authoring checklist](docs/skill-authoring-checklist.md)
+
 Atlas discovers Skills by recursively finding `SKILL.md` files. In this
 repository, the Skill definition is
 [`compare-options/SKILL.md`](compare-options/SKILL.md). The accompanying
